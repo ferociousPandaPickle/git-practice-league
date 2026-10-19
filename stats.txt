@@ -1,0 +1,2 @@
+blueside-wr = 100%
+redside-wr = 0%
